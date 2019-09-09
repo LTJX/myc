@@ -1,0 +1,94 @@
+#page{
+	width: 860px;
+	height: 1051px;
+	border-bottom: dashed 1px white;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	background-color: aqua;
+	box-shadow: 0px 15px 20px 23px rgb(0,0,0,12);
+}
+div{
+	
+	width:860px;
+	height: 1051px;
+	margin: auto;
+}
+.head{
+	
+	width:90%;
+	height:150px;
+}
+.neck{
+	
+	width: 90%;
+	height: 150px;
+}
+.foot1{
+	
+	width: 460px;
+	height: 701px;
+	float: left;
+}
+.foot2{
+	
+	width: 280px;
+	height: 701px;
+	float: right;
+}
+.d1{
+	
+	width: 400px;
+	height: 150px;
+	float:left;
+	
+	
+}
+.d2{
+	
+	width: 300px;
+	height: 150px;
+	float:right;
+}
+.d3{
+	width: 460px;
+	height: 150px;
+	float: left;
+}
+.d4{
+	width: 90%;
+	height: 701px;
+}
+.d5{
+	width: 300px;
+	height:150px;
+	float: right;
+}
+.head .d2 p{
+	margin-left: 20px;
+  text-align: left;
+}
+#i1{
+	width: 20px;
+	height:20px;
+}
+#i2{
+	width:20px;
+	height: 20px;
+}
+#i3{
+	background-color: gray;
+}
+#i4{
+	background-color: gray;
+}
+#i5{
+	background-color: gray;
+}
+img {
+	width: 140px;
+	height: 140px;
+	float: right;
+	margin-right: 80px;
+	margin-top: 0px;
+	border-radius: 70px;
+}
